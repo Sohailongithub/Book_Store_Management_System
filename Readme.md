@@ -1,4 +1,4 @@
-# BookStore Management System
+# Book_Store_Management_System
 
 ## Setting up project
 
